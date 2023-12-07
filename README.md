@@ -3,3 +3,6 @@ Research version of Ecliptar Design &amp; Construction. Include 3D drawings, pri
 
 ![image](https://github.com/unirecon-net/CAD.Unirecon.Ecliptar.VehicleDesign/assets/82622935/1bc942f0-8f57-44f3-969d-aaceee41f1ac)
 
+![image](https://github.com/unirecon-net/CAD.Unirecon.Ecliptar.VehicleDesign/assets/82622935/5481902c-27fd-4e93-a7ea-24217276a0de)
+
+
